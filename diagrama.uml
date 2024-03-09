@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="100.7266079745992" y="-112.3777374695105">com.calc.Monom</node>
+    <node x="-230.89490497095795" y="-112.3777374695105">com.calc.Polynom</node>
+    <node x="-445.3687079810092" y="166.49514098970099">com.calc.Main</node>
+    <node x="-253.89490497095795" y="213.27500088097304">com.calc.Calculator</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.calc.Calculator" target="com.calc.Polynom" relationship="CREATE">
+      <point x="-89.5" y="-71.5" />
+      <point x="-137.89490497095795" y="153.44863170573126" />
+      <point x="-114.89490497095795" y="153.44863170573126" />
+      <point x="0.0" y="116.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.0" showDependencies="true" x="-46.5" y="112.34170854271358" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

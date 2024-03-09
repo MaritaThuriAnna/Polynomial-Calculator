@@ -1,5 +1,6 @@
-package main.java.Interface;
-import main.java.Data.Polynom;
+package Interface;
+import Data.Polynom;
+//import main.java.Data.Polynom;
 
 import javax.swing.*;
 import java.awt.*;

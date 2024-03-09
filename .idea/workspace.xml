@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="834425ee-8c39-4991-abae-7a8dd93fc04c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculatorPolinoame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Data/Monom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Data/Polynom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Calculator.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ca2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cherry-blossom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/PolynomTest.java" afterDir="false" />
+    <list default="true" id="834425ee-8c39-4991-abae-7a8dd93fc04c" name="Changes" comment="proiect">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorPolinoame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorPolinoame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Polynom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/Polynom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interface/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interface/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +74,7 @@
       <recent name="com.calc" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PolynomTest (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.Example.Main" />
       <module name="CalculatorPolinoame" />
@@ -98,6 +84,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolynomTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorPolinoame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PolynomTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,22 +114,6 @@
       <option name="PACKAGE_NAME" value="test.java" />
       <option name="MAIN_CLASS_NAME" value="test.java.PolynomTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PolynomTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CalculatorPolinoame" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.PolynomTest" />
-      <option name="METHOD_NAME" value="add" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PolynomTest (1)" />
         <item itemvalue="JUnit.PolynomTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.PolynomTest.derive" />
         <item itemvalue="JUnit.PolynomTest.substract" />
-        <item itemvalue="JUnit.PolynomTest.add" />
       </list>
     </recent_temporary>
   </component>
@@ -192,8 +177,18 @@
       <workItem from="1679465804311" duration="25073000" />
       <workItem from="1679784491331" duration="37538000" />
       <workItem from="1679952668905" duration="9549000" />
-      <workItem from="1680021932446" duration="7286000" />
+      <workItem from="1680021932446" duration="8334000" />
+      <workItem from="1680090104122" duration="156000" />
+      <workItem from="1681880703330" duration="2518000" />
     </task>
+    <task id="LOCAL-00001" summary="proiect">
+      <created>1680070237166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680070237167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +204,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="proiect" />
+    <option name="LAST_COMMIT_MESSAGE" value="proiect" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
